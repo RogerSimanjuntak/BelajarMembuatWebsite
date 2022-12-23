@@ -1,5 +1,5 @@
 # BelajarMembuatWebsite
 Awalan Belajar Html
-<ul>
-<li><h4>PEMBELAJARAN PERTAMA MEMBUAT SUATU TAG</h4></li>
-</ul>
+<ol>
+<li><h5>Belajar Tag html</h5></li>
+</ol>
