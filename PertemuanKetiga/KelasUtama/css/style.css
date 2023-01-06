@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@100&display=swap');
+body {
+    /* ini untuk menguba font default  */
+    font-family: sytem-ui,
+    color: black;
+    background-color: white;
+    padding: 15px;
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Nature-wallpapers-Full-HD-backgroud.jpg)
+}
+/* ini selector tanpa class  */
+p{
+    
+    color: red;
+}
+/* ini selector dengan class */
+p.pengantar{
+    color: purple;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+/* ini buat hilangin style default */
+    list-style: none;
+}
+
+li.hijau{
+    color: green;
+}
+.nyoba{
+    color: red;
+}
