@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@100&display=swap');
+
+body{
+    background-image: url('https://i0.wp.com/dianisa.com/wp-content/uploads/2022/11/5-Gambar-pemandangan-laut-dengan-perahu.jpg?ssl=1'); /* Menambahkan Image dari URL */
+    
+}
+div{ /* Selektor General*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  /* Mengganti Font*/
+    color: blueviolet; /* Mengganti Warna Font*/
+    background-color: white; /* Mengganti Warna Background Font*/
+}
+
+div.bedasendiri{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+h1{
+    text-align: center; /* Mengubah posisi teks*/
+    font-size: 30px; /* Mengubah ukuran teks */
+}
+
+p.Komandro{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+li{
+    color: aqua;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cadetblue
+}
